@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning java☕, spring boot 🌿
 - 📫 How to reach me: https://t.me/D1moch1c or dimitrypatriarch@gmail.com
-- 🔮 My interest are music, languages, sports and a bit of gaming 🎮
+- 🔮 I like reading books, trying new languages and playing sports! 
 <!--
 **CAThubb/CAThubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
