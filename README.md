@@ -3,7 +3,7 @@
 <h3 align="center">On my way to become Backend developer 🦍</h3>
 
 - 🌱 I’m currently learning java☕, spring boot 🌿
-- 📫 How to reach me: https://t.me/D1moch1c or dimitrypatriarch@gmail.com
+- 📫 How to reach me: dimitrypatriarch@gmail.com
 <!--
 **CAThubb/CAThubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
