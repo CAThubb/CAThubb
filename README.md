@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/CAThubb" target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">On my way to become Backend developer 🦍</h3>
+<h3 align="center">Backend developer 🦍</h3>
 
-- 🌱 I’m currently learning java☕, spring boot 🌿
+- 🌱 In love with java ☕, spring boot 🌿
 - 📫 How to reach me: dimitrypatriarch@gmail.com
 <!--
 **CAThubb/CAThubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
